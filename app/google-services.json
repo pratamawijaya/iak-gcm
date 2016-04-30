@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "85053556692",
+    "project_id": "iak-jgj"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85053556692:android:dc5ce4b4e777cd28",
+        "android_client_info": {
+          "package_name": "com.pratamawijaya.testgooglecloudmessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCWIj0QU5pYfyFr65KEXIDvupWHKkIJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
